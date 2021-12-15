@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Fifth task\Fifth task\obj\Debug\net5.0\FifthTask.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Fifth task\Fifth task\obj\Debug\net5.0\FifthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Fifth task\Fifth task\obj\Debug\net5.0\FifthTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fifth task\Fifth task\obj\Debug\net5.0\FifthTask.AssemblyInfo.cs
+C:\Users\User\source\repos\Fifth task\Fifth task\obj\Debug\net5.0\FifthTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fifth task\Fifth task\bin\Debug\net5.0\FifthTask.deps.json
+C:\Users\User\source\repos\Fifth task\Fifth task\bin\Debug\net5.0\FifthTask.dll
+C:\Users\User\source\repos\Fifth task\Fifth task\bin\Debug\net5.0\ref\FifthTask.dll
+C:\Users\User\source\repos\Fifth task\Fifth task\bin\Debug\net5.0\FifthTask.pdb
+C:\Users\User\source\repos\Fifth task\Fifth task\obj\Debug\net5.0\FifthTask.dll
+C:\Users\User\source\repos\Fifth task\Fifth task\obj\Debug\net5.0\ref\FifthTask.dll
+C:\Users\User\source\repos\Fifth task\Fifth task\obj\Debug\net5.0\FifthTask.pdb

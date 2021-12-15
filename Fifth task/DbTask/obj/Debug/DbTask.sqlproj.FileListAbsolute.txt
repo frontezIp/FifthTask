@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Fifth task\DbTask\bin\Debug\DbTask.dacpac
+C:\Users\User\source\repos\Fifth task\DbTask\bin\Debug\DbTask.dll
+C:\Users\User\source\repos\Fifth task\DbTask\bin\Debug\DbTask.pdb
+C:\Users\User\source\repos\Fifth task\DbTask\obj\Debug\DbTask.sqlprojAssemblyReference.cache
+C:\Users\User\source\repos\Fifth task\DbTask\obj\Debug\DbTask.dll
+C:\Users\User\source\repos\Fifth task\DbTask\obj\Debug\DbTask.pdb

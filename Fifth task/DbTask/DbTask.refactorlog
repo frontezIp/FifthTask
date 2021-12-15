@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="97f0b94e-42de-498e-8bca-ea55d63e3468" ChangeDateTime="12/08/2021 20:23:11">
+    <Property Name="ElementName" Value="[dbo].[Subcriber].[F]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Subcriber]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="FristName" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b674018d-49fd-4873-98af-8977f4d2a566" ChangeDateTime="12/08/2021 20:24:30">
+    <Property Name="ElementName" Value="[dbo].[Subcriber].[FristName]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Subcriber]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="FirstName" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="50956ae8-f897-4097-aef3-32ca4bfcbd98" ChangeDateTime="12/08/2021 20:41:17">
+    <Property Name="ElementName" Value="[dbo].[Book].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Book]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BookID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="6bd42227-9b8f-419b-afaa-c4746fb06642" ChangeDateTime="12/08/2021 20:41:27">
+    <Property Name="ElementName" Value="[dbo].[BoolReport].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[BoolReport]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BookReportId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="18d5621e-d639-4d7d-b801-c8c476841338" ChangeDateTime="12/08/2021 20:41:38">
+    <Property Name="ElementName" Value="[dbo].[Subcriber].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Subcriber]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="SubscriberId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2387915a-2b8a-4e78-9eab-cb4287a05510" ChangeDateTime="12/08/2021 20:44:17">
+    <Property Name="ElementName" Value="[dbo].[BoolReport].[DateOf]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[BoolReport]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="DateOfGiving" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3c729c97-4b81-4a10-b831-554b1dd5dabc" ChangeDateTime="12/10/2021 22:06:40">
+    <Property Name="ElementName" Value="[dbo].[Book].[BookID]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Book]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="8d4b1e57-3abe-40fa-8050-d39e97c3b0aa" ChangeDateTime="12/10/2021 22:06:50">
+    <Property Name="ElementName" Value="[dbo].[Subcriber].[SubscriberId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Subcriber]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a5968217-7be1-4eed-9d8e-16aa0eae0117" ChangeDateTime="12/10/2021 22:07:11">
+    <Property Name="ElementName" Value="[dbo].[BoolReport].[BookReportId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[BoolReport]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="576d493f-05e6-423f-b45b-0edc8af00790" ChangeDateTime="12/11/2021 11:14:36">
+    <Property Name="ElementName" Value="[dbo].[BoolReport].[DateOfReceiving]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[BoolReport]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="DfReceiving" />
+  </Operation>
+</Operations>

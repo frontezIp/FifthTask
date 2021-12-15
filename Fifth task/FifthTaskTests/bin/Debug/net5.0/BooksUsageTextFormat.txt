@@ -1,0 +1,4 @@
+Title	Author	Genre	Usage
+Brothers Karamazov	Dostoevksky	Novel	1
+Crime and Punishment	Dostoevsky	Novel	2
+The Republic	Platon	Dialogue	1
